@@ -153,7 +153,17 @@ I have professional experience as a **Software Engineer** at [Samsung R & D Inst
 </style>
 
 
+# Publications <a href="https://scholar.google.com/citations?user=CMxkXyoAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-9cf?logo=google-scholar&labelColor=f6f6f6" alt="Google Scholar"></a>
 
+<div style="position:relative;padding:12px 16px;margin:16px 0;border-radius:12px;border:1px solid #eaeaea;background:#fff;box-shadow:0 1px 4px rgba(0,0,0,0.04);">
+  <span style="display:inline-block;width:28px;height:28px;border-radius:50%;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;text-align:center;line-height:28px;font-weight:bold;margin-right:10px;box-shadow:0 2px 6px rgba(102,126,234,0.4);">9</span>
+  <span style="display:inline-block;padding:4px 12px;border-radius:6px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:white;font-weight:600;font-size:0.85em;margin-right:8px;box-shadow:0 2px 4px rgba(0,0,0,0.1);">ICSE 2026</span>
+  <a href="https://arxiv.org/pdf/2512.15468" target="_blank">How Do Semantically Equivalent Code Transformations Impact Membership Inference on LLMs for Code?</a>. Hua Yang, Alejandro Velasco, Thanh Le-Cong, <strong><u>Md Nazmul Haque</u></strong>, Bowen Xu, Denys Poshyvanyk. <i>International Conference of Software Engineering (ICSE).</i>
+  <div style="display:block;margin-top:8px;margin-left:0;">
+    <a target="_blank" style="display:inline-block;padding:2px 8px;border-radius:12px;background:#ffe7e7;color:#a00020;font-size:0.8em;margin-right:6px;border:1px solid #ffcccc;text-decoration:none;" href="https://arxiv.org/pdf/2512.15468" title="PDF">PDF</a>
+    <a target="_blank" style="display:inline-block;padding:2px 8px;border-radius:12px;background:#e7fff3;color:#006644;font-size:0.8em;margin-right:6px;border:1px solid #c6ffd9;text-decoration:none;" href="https://anonymous.4open.science/r/final-38B2/README.md" title="Source Code">Code</a>
+  </div>
+</div>
 
 
 # Publications <a href="https://scholar.google.com/citations?user=CMxkXyoAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Profile-9cf?logo=google-scholar&labelColor=f6f6f6" alt="Google Scholar"></a>
